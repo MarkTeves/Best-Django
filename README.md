@@ -18,7 +18,6 @@ maintained, has a good amount of users, has good documentation, follows the best
 practices, and which latest release is less than 1 year old. Awesome Django packages
 and projects are the ones that inspire and serve as examples.**
 
-Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Contents
 
